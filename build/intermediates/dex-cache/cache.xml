@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="F:\workplace\androidStudioWorkplace\PleaseGo\app\libs\AMap_Search_V5.3.1_20170817.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b4e1d1d93f686f1a6efe4e49d798b27801d4d301">
+        <dex dex="F:\workplace\androidStudioWorkplace\PleaseGo\app\build\intermediates\pre-dexed\debug\AMap_Search_V5.3.1_20170817_7d8915e0245bed7f3c2bdcf4d476fe146c65b004.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workplace\androidStudioWorkplace\PleaseGo\app\libs\MobTools-2016.1201.1839.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="28b130b739199908b8b9f82d6cc77043b5040d25">
+        <dex dex="F:\workplace\androidStudioWorkplace\PleaseGo\app\build\intermediates\pre-dexed\debug\MobTools-2016.1201.1839_ad1c88415a19cbb6daa43a3e7fb22eb05bf69319.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workplace\androidStudioWorkplace\PleaseGo\app\libs\Android_Map3D_SDK_V5.3.0_20170815.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8e1bcab49134edfa6f74440488dfff14460d3a12">
+        <dex dex="F:\workplace\androidStudioWorkplace\PleaseGo\app\build\intermediates\pre-dexed\debug\Android_Map3D_SDK_V5.3.0_20170815_9d0380e54060d1615867ca84f7ef3a8ad09e7993.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workplace\androidStudioWorkplace\PleaseGo\app\libs\MobCommons-2016.1201.1839.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d2416fb4e3fe16c82785fc6cd4f8b768b25c6202">
+        <dex dex="F:\workplace\androidStudioWorkplace\PleaseGo\app\build\intermediates\pre-dexed\debug\MobCommons-2016.1201.1839_44d07be658811f10aa8f943eda7430ef2a261d73.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workplace\androidStudioWorkplace\PleaseGo\app\libs\AMap_Location_V3.5.0_20170731.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a02816310bcf897ef35496950110a65b495574a7">
+        <dex dex="F:\workplace\androidStudioWorkplace\PleaseGo\app\build\intermediates\pre-dexed\debug\AMap_Location_V3.5.0_20170731_d33b2555e5050c14428c519469a0b3228fcfb862.jar" />
+    </item>
+
+</items>

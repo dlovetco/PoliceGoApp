@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.percent.PercentRelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/activity_login"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/login_background">
+
+
+    <ImageView
+        android:id="@+id/register_imageview"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:src="@drawable/register_newuser_imageview"
+        app:layout_heightPercent="2.5%"
+        app:layout_marginLeftPercent="19.2%"
+        app:layout_marginTopPercent="85.7%"
+        app:layout_widthPercent="21.8%" />
+
+    <EditText
+        android:id="@+id/login_input_phoneNum_edit"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:digits="0123456789"
+        android:textColor="#000"
+        android:textSize="12sp"
+        app:layout_heightPercent="6.6%"
+        app:layout_marginLeftPercent="19.2%"
+        app:layout_marginTopPercent="65.5%"
+        app:layout_widthPercent="62.2%" />
+
+
+    <EditText
+        android:id="@+id/login_input_password_edit"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:digits="qwertyuiopasdfghjklzxcvbnmQWERTYUIOPASDFGHJKLZXCVBNM0123456789"
+        android:inputType="textPassword"
+        android:textColor="#000"
+        android:textSize="12sp"
+        app:layout_heightPercent="6.6%"
+        app:layout_marginLeftPercent="19.2%"
+        app:layout_marginTopPercent="77.2%"
+        app:layout_widthPercent="53.4%" />
+
+
+    <Button
+        android:id="@+id/login_button"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:background="@drawable/login_button"
+        app:layout_heightPercent="9.9%"
+        app:layout_marginLeftPercent="74.6%"
+        app:layout_marginTopPercent="78.3%"
+        app:layout_widthPercent="18.1%" />
+
+
+</android.support.percent.PercentRelativeLayout>

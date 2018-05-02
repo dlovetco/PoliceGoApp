@@ -1,0 +1,7 @@
+#Tue Oct 03 10:52:45 CST 2017
+base.0=F\:\\workplace\\androidStudioWorkplace\\PleaseGo\\app\\build\\intermediates\\transforms\\dex\\release\\folders\\1000\\1f\\main
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=F\:\\workplace\\androidStudioWorkplace\\PleaseGo\\app\\build\\intermediates\\transforms\\dex\\release\\folders\\1000\\1f\\main\\classes2.dex
+base.1=F\:\\workplace\\androidStudioWorkplace\\PleaseGo\\app\\build\\intermediates\\transforms\\dex\\release\\folders\\1000\\1f\\main
+file.0=F\:\\workplace\\androidStudioWorkplace\\PleaseGo\\app\\build\\intermediates\\transforms\\dex\\release\\folders\\1000\\1f\\main\\classes.dex

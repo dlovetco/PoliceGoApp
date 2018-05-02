@@ -1,0 +1,3 @@
+# Referenced at F:\workplace\androidStudioWorkplace\PleaseGo\app\build\intermediates\manifests\full\debug\AndroidManifest.xml:43
+-keep class com.example.pleasego.utils.MyApplication { <init>(...); }
+

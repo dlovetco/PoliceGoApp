@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "F:\\workplace\\androidStudioWorkplace\\PleaseGo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\logo.png",
+        "source": "F:\\workplace\\androidStudioWorkplace\\PleaseGo\\app\\src\\main\\res\\mipmap-xxhdpi\\logo.png"
+    },
+    {
+        "merged": "F:\\workplace\\androidStudioWorkplace\\PleaseGo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
+        "source": "F:\\workplace\\androidStudioWorkplace\\PleaseGo\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    }
+]

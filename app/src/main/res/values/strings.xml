@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Please Go</string>
+    <string name="ASkill1">A技能1</string>
+    <string name="ASkill2">A技能2</string>
+    <string name="ASkill3">A技能3</string>
+    <string name="ASkill4">A技能4</string>
+    <string name="BSkill1">B技能1</string>
+    <string name="BSkill2">B技能2</string>
+    <string name="BSkill3">B技能3</string>
+    <string name="BSkill4">B技能4</string>
+    <string name="passwordHint">密码</string>
+    <string name="phoneNumHint">手机号</string>
+</resources>
